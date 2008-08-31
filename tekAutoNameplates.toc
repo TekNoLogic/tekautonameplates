@@ -1,0 +1,6 @@
+## Interface: 20200
+
+## Title: tekAutoNameplates
+## Notes: Automatically toggles nameplates when entering / leaving combat.
+
+tekAutoNameplates.lua
