@@ -1,4 +1,4 @@
-## Interface: 20200
+## Interface: 30000
 
 ## Title: tekAutoNameplates
 ## Notes: Automatically toggles nameplates when entering / leaving combat.
